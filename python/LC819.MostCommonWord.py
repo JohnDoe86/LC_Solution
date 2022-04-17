@@ -32,3 +32,6 @@ class Solution:
                 res = key
                 cnt = b[key]
         return res
+
+#定义一个变量
+#str --> " ", dict --> {}, array --> []
